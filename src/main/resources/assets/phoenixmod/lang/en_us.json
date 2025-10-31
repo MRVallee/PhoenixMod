@@ -1,3 +1,6 @@
 {
-  "item.phoenixmod.silver_ingot": "Silver Ingot"
+  "item.phoenixmod.silver_ingot": "Silver Ingot",
+  "item.phoenixmod.raw_silver": "Raw Silver",
+  "item.phoenixmod.silver_block": "Block of Silver",
+  "item.phoenixmod.silver_ore": "Silver Ore"
 }
